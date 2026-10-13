@@ -6,8 +6,9 @@
 __generated__/
 __temp_scripts__/
 __pycache__/
-*.pdf.DS_Store
-__pycache__/
 *.pyc
+*.pdf
 mse-extract/
-workflows/
+
+# OS / editor junk
+.DS_Store
